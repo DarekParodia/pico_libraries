@@ -1,0 +1,1 @@
+add_subdirectory(gy-neo6mv2)
